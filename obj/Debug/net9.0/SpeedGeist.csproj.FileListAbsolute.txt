@@ -1,0 +1,16 @@
+C:\Users\torom\source\repos\LibGeist\SpeedGeist\obj\Debug\net9.0\SpeedGeist.csproj.AssemblyReference.cache
+C:\Users\torom\source\repos\LibGeist\SpeedGeist\obj\Debug\net9.0\SpeedGeist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\torom\source\repos\LibGeist\SpeedGeist\obj\Debug\net9.0\SpeedGeist.AssemblyInfoInputs.cache
+C:\Users\torom\source\repos\LibGeist\SpeedGeist\obj\Debug\net9.0\SpeedGeist.AssemblyInfo.cs
+C:\Users\torom\source\repos\LibGeist\SpeedGeist\obj\Debug\net9.0\SpeedGeist.csproj.CoreCompileInputs.cache
+C:\Users\torom\source\repos\LibGeist\SpeedGeist\bin\Debug\net9.0\SpeedGeist.deps.json
+C:\Users\torom\source\repos\LibGeist\SpeedGeist\bin\Debug\net9.0\SpeedGeist.dll
+C:\Users\torom\source\repos\LibGeist\SpeedGeist\bin\Debug\net9.0\SpeedGeist.pdb
+C:\Users\torom\source\repos\LibGeist\SpeedGeist\bin\Debug\net9.0\AurieSharpInterop.dll
+C:\Users\torom\source\repos\LibGeist\SpeedGeist\bin\Debug\net9.0\LibreGeist.dll
+C:\Users\torom\source\repos\LibGeist\SpeedGeist\bin\Debug\net9.0\LibreGeist.pdb
+C:\Users\torom\source\repos\LibGeist\SpeedGeist\obj\Debug\net9.0\SpeedGeist.csproj.Up2Date
+C:\Users\torom\source\repos\LibGeist\SpeedGeist\obj\Debug\net9.0\SpeedGeist.dll
+C:\Users\torom\source\repos\LibGeist\SpeedGeist\obj\Debug\net9.0\refint\SpeedGeist.dll
+C:\Users\torom\source\repos\LibGeist\SpeedGeist\obj\Debug\net9.0\SpeedGeist.pdb
+C:\Users\torom\source\repos\LibGeist\SpeedGeist\obj\Debug\net9.0\ref\SpeedGeist.dll
