@@ -1,6 +1,6 @@
 # SpeedGeist
 
-Practice and speedrunning tools for **TetherGeist**, built with **LibreGeist**.
+Practice and speedrunning tools for **TetherGeist**, built with [**LibreGeist**](https://github.com/Name23games/LibreGeist).
 
 ## Features
 
